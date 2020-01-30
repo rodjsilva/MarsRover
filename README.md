@@ -49,4 +49,4 @@ MMRMMRMRRM
 - The application can be run with the included sample file ("dotnet run textinput.txt")
 - Errors result in coordinates with x and y set to -1 and orientation set to the error number (decoded by enum Errors)
 
-5 1 E
+
