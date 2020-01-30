@@ -1,0 +1,5 @@
+./rover/.vscode/
+./rover/bin/
+./rover/obj/
+./rover.tests/bin/
+./rover.tests/obj/

@@ -1,0 +1,17 @@
+C:\Users\rodjs\Downloads\__work\MarsRover\rover.tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\rodjs\Downloads\__work\MarsRover\rover.tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\rodjs\Downloads\__work\MarsRover\rover.tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\rodjs\Downloads\__work\MarsRover\rover.tests\bin\Debug\netcoreapp2.1\rover.tests.deps.json
+C:\Users\rodjs\Downloads\__work\MarsRover\rover.tests\bin\Debug\netcoreapp2.1\rover.tests.runtimeconfig.json
+C:\Users\rodjs\Downloads\__work\MarsRover\rover.tests\bin\Debug\netcoreapp2.1\rover.tests.runtimeconfig.dev.json
+C:\Users\rodjs\Downloads\__work\MarsRover\rover.tests\bin\Debug\netcoreapp2.1\rover.tests.dll
+C:\Users\rodjs\Downloads\__work\MarsRover\rover.tests\bin\Debug\netcoreapp2.1\rover.tests.pdb
+C:\Users\rodjs\Downloads\__work\MarsRover\rover.tests\obj\Debug\netcoreapp2.1\rover.tests.csprojAssemblyReference.cache
+C:\Users\rodjs\Downloads\__work\MarsRover\rover.tests\obj\Debug\netcoreapp2.1\rover.tests.csproj.CoreCompileInputs.cache
+C:\Users\rodjs\Downloads\__work\MarsRover\rover.tests\obj\Debug\netcoreapp2.1\rover.tests.AssemblyInfoInputs.cache
+C:\Users\rodjs\Downloads\__work\MarsRover\rover.tests\obj\Debug\netcoreapp2.1\rover.tests.AssemblyInfo.cs
+C:\Users\rodjs\Downloads\__work\MarsRover\rover.tests\obj\Debug\netcoreapp2.1\rover.tests.dll
+C:\Users\rodjs\Downloads\__work\MarsRover\rover.tests\obj\Debug\netcoreapp2.1\rover.tests.pdb
+C:\Users\rodjs\Downloads\__work\MarsRover\rover.tests\bin\Debug\netcoreapp2.1\rover.dll
+C:\Users\rodjs\Downloads\__work\MarsRover\rover.tests\bin\Debug\netcoreapp2.1\rover.pdb
+C:\Users\rodjs\Downloads\__work\MarsRover\rover.tests\obj\Debug\netcoreapp2.1\rover.tests.csproj.CopyComplete
